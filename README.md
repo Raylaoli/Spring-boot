@@ -3,6 +3,24 @@ esse repositorio será usado especificamente para estudos de java com spring-boo
 
 ## Comandos git
 
+Salvar alterações feitas
+ - git add .
+
+Verificar status das alterações
+ - git status
+
+Criar um ponto de salvamento no repositório
+ - git commit -m"mensagem"
+
+Buscar as alteraçoes mais recentes do repositório remoto
+ - git pull
+
+Enviar as alterações para o repositório remoto
+ - git push
+
+Fazer o push das alterações para o repositório da branch especificada
+ - git push -b origin nome-da-branch 
+
 Verificar as branches existentes
  - git branch
 

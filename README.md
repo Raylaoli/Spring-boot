@@ -36,7 +36,7 @@ Mudar de branch
 ## Comandos para criar um novo projeto
 
  - crtl + p : Abre a barra de pesquisa (coloca ">" para iniciar os comandos)
- -Spring initializer: maven project
+ - Spring initializer: maven project
  - versão mais atual: 3.4.3
  - java
  - muda para ".com.br"
